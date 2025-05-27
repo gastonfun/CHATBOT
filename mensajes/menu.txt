@@ -1,0 +1,8 @@
+Este es el Menu!
+
+Elegi una opcion
+
+1 - menu del dia
+2 - ofertas
+3 - informes
+0 - salir
